@@ -1,0 +1,3 @@
+C:/Users/Acer/Desktop/dz1_FLiTA_Korolyov_Roman_IU4-22B_2VARIANT/cmake-build-debug/CMakeFiles/dz1_FLiTA_Korolyov_Roman_IU4_22B_2VARIANT.dir
+C:/Users/Acer/Desktop/dz1_FLiTA_Korolyov_Roman_IU4-22B_2VARIANT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Desktop/dz1_FLiTA_Korolyov_Roman_IU4-22B_2VARIANT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
